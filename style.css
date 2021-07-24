@@ -1,0 +1,18 @@
+.panda-bg-info{
+    background-color: aquamarine;
+}
+.catagories img{
+    width: 100px;
+}
+.panda_btn_buy_now{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+}
+.panda_btn_buy_now:hover{
+    color: black;
+    box-shadow:1px 1px 10px gray;
+    transition: 1s;
+}
